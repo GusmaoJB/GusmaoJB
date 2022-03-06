@@ -2,7 +2,7 @@
 #### My name is Joao Gusmao and I'm a biologist who is very interested in Data Science
 * Experience with R and associated packages
 * Currently working with marine conservation in the Baltic
-* Interested in machine learning model-based multivariate analysis
+* Interested in machine learning and model-based multivariate analyses
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://www.r-project.org/logo/Rlogo.svg">
