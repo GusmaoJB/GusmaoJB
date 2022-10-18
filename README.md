@@ -1,7 +1,7 @@
 ### Hello!
-#### My name is Joao Gusmao and I'm a biologist who is very interested in Data Science
-* Experience with R and associated packages
-* Currently working with marine conservation in the Baltic
+#### My name is Joao Gusmao and I'm a biologist who is currently diving in the field of Data Science
+* Experience with R
+* Currently working as a research fellow at the Åbo Akademi University, Finland
 * Interested in machine learning and model-based multivariate analyses
 
 <div style="display: inline_block"><br>
