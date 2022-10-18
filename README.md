@@ -1,5 +1,5 @@
 ### Hello!
-#### My name is Joao Gusmao and I'm a biologist who is currently diving in the field of Data Science
+#### My name is Joao Gusmao and I'm a biologist who is currently diving into the field of Data Science
 * Experience with R
 * Currently working as a research fellow at the Åbo Akademi University, Finland
 * Interested in machine learning and model-based multivariate analyses
