@@ -2,7 +2,7 @@
 #### My name is Joao Gusmao and I'm a biologist who is currently diving into the field of Data Science
 * Experience with R
 * Currently working as a research fellow at the Åbo Akademi University, Finland
-* Interested in machine learning and model-based multivariate analyses
+* Interested in machine learning and data visualization
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://www.r-project.org/logo/Rlogo.svg">
